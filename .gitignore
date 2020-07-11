@@ -1,0 +1,5 @@
+.gitignore
+desktop.ini
+.vs/**
+UdemyCourseScraper/bin/Debug/**
+UdemyCourseScraper/obj/Debug/**
