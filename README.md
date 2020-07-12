@@ -12,6 +12,7 @@ The following program will get all the classes of a given course of Udemy. Speci
 - Get the URL of a Udemy course given by the user
 - List and show the name of all classes of the given course in console
   - Only the classes will be given, not the headers
+  - Stay Tuned!
 
 ## Usage <a name = "usage"></a>
 
